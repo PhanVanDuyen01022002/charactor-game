@@ -46,9 +46,11 @@ function Charactor() {
       <button onClick={handleRace} className={cx("race-btn")}>
         Race
       </button>
-      <button onClick={handleReset} className={cx("reset-btn")}>
-        Reset
-      </button>
+      {(playerAScore > 1 || playerBScore > 1) && (
+        <button onClick={handleReset} className={cx("reset-btn")}>
+          Reset
+        </button>
+      )}
     </div>
   );
 }
