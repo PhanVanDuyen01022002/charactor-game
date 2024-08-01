@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e43111c9.css",
+    "main.js": "./static/js/main.e491839b.js",
+    "static/js/453.dc98dbe8.chunk.js": "./static/js/453.dc98dbe8.chunk.js",
+    "static/media/TikTokDisplayFont-Bold.woff2": "./static/media/TikTokDisplayFont-Bold.b191c0620e8c9617ea10.woff2",
+    "static/media/TikTokFont-Bold.woff2": "./static/media/TikTokFont-Bold.145f211a356fce76072d.woff2",
+    "static/media/TikTokDisplayFont-Semibold.woff2": "./static/media/TikTokDisplayFont-Semibold.6d304bc13296116e94fd.woff2",
+    "static/media/TikTokFont-Semibold.woff2": "./static/media/TikTokFont-Semibold.0a3262809350126554ad.woff2",
+    "static/media/TikTokFont-Regular.woff2": "./static/media/TikTokFont-Regular.0ca75da985ad7821cbde.woff2",
+    "index.html": "./index.html",
+    "main.e43111c9.css.map": "./static/css/main.e43111c9.css.map",
+    "main.e491839b.js.map": "./static/js/main.e491839b.js.map",
+    "453.dc98dbe8.chunk.js.map": "./static/js/453.dc98dbe8.chunk.js.map"
+  },
+  "entrypoints": ["static/css/main.e43111c9.css", "static/js/main.e491839b.js"]
+}
